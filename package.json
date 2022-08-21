@@ -1,7 +1,7 @@
 {
   "name": "tutorial-parte-1",
   "version": "1.0.0",
-  "description": "ultimate solidity tutorial: defi, flash loans, hacking, nfts & more",
+  "description": "Real Estate DeFi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
